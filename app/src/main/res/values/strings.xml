@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gmail</string>
+    <string name="inbox">Inbox</string>
+    <string name="compose_email">Compose Email</string>
+</resources>
